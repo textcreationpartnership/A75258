@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the discovery of the new plot made manifest by several of the conspirators convened before His Majesties Most Honourable Privy Council at Hampton Court on the 23. of this instant June 1683.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75258</idno>
+            <idno type="STC">Wing A278</idno>
+            <idno type="STC">ESTC R204288</idno>
+            <idno type="EEBO-CITATION">12935712</idno>
+            <idno type="OCLC">ocm 12935712</idno>
+            <idno type="VID">151497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:41 or 2261:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the discovery of the new plot made manifest by several of the conspirators convened before His Majesties Most Honourable Privy Council at Hampton Court on the 23. of this instant June 1683.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Benskin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of originals in Huntington Library and the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151497:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of the Diſcovery of the NEW PLOT, Made Manifeſt by ſeveral of the Conſpirators Convened before His Majeſties moſt Ho<g ref="char:EOLhyphen"/>nourable Privy Council at <hi>Hampton Court</hi> on the 23. of this Inſtant <hi>June</hi> 1683.</head>
+            <p>NO Wonder if Sacred Princes, Vice-gerents to the King of Kings, are Heavens peculiar care, ſince Wicked Men ſo frequently are combin'd (with the powers of Darkneſs, in Malice to him that In<g ref="char:EOLhyphen"/>ſtituted them by his Eternal Decree to Govern the Inferiour World) do diſturb their Reign, and conſpire their hurt; but in vain are all the Machinations and Devices of a Turbulent Faction, who ſeek to over<g ref="char:EOLhyphen"/>throw the Eſtabliſhed Government; which is Heavens peculiar Care, though like Bulls in <hi>Baſſian,</hi> they have puſhed for ſome years paſt to overthrow Great <hi>Brittains</hi> Monarchy, yet have their devices been brought to nought, as appeared by the late diſcovery, when <hi>Ignoramus</hi> Juries were brought as <hi>Salvo</hi>'s, yet the Eyes of the Nation were too open to be deceived with Shaddows, Spectrums, or Fantoms, when apparent Truth preſented her ſelf in her Native ſhape, and much more now ſince a more then ordinary diſcovery hath been made by ſuch who were in the Combination againſt the beſt of Kings, who is indeed, next Heaven, our only Refuge, and the breath of our Noſtrils; a Prince ſo Good, ſo Bounteous, and ſo Juſt, that Heaven thought him only fit to Rule ſo great a People.</p>
+            <p>But to the Purpoſe, ſome days ſince Depoſitions having been made by one <hi>Keeling</hi> (who, as Heaven would have it, was altogether Reſtleſs till he had Diſimboged the dire Secret) that a Helliſh and Damnable Conſpiracy had for a long time been Brooding and carried on by ſeveral of the Diſaffected party, many of which he Named, and depoſed likewiſe the ſeveral Circumſtances, ſo far as his knowledge Retained, that attended the Damnable Conſpiracy, no doubt laid deep to deprive true Loyaliſts of all they hold dear on this ſide Heaven; upon which Depoſition, one Mr. <hi>West</hi> a Councillor at Law, and one who formerly was Active in the behalf of <hi>Stephen Colledge,</hi> had his Chamber Seiz'd by Order of the Secretary of State, and divers Papers ſecured by the Officers Imployed to that purpoſe, many of which contained matters of Dan<g ref="char:EOLhyphen"/>gerous Conſequence, tending to the Countenancing Sedition and Rebellion, <hi>&amp;c.</hi>
+               <pb n="2" facs="tcp:151497:2" rendition="simple:additions"/>Upon Notice of which, He the ſaid Mr. <hi>Weſt.</hi> Councellor at Law, for ſome time Abſconded Himſelf; but being moved by the ſence of his unnatural Com<g ref="char:EOLhyphen"/>bination againſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soveraign, He expreſſed a Deep, and paſt doubt, an un<g ref="char:EOLhyphen"/>feigned ſorrow for his Offence which he diſcovering to his Father-In-Law, who is doubtleſs a Man of unbiaſſed Principles, He adviſed him to throw himſelf at the Feet of that Majeſty, which in ſo High a Nature He had Offended, but he not daring to Approach ſuch Innate goodneſs, againſt whom He had cauſeleſly conſpired, before his Attonement was in ſome meaſure made, He by his Agents, if not in Perſon, applied himſelf to the worthy, (and of un<g ref="char:EOLhyphen"/>queſtionable Loyal<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) Sr. <hi>George Jefferies</hi> chief Juſtice of the Countie Palatine of <hi>Cheſter,</hi> and His Majeſties Serjeant at Law, <hi>&amp;c.</hi> Humbly Beſeeching him to Interceed with His Majeſty, that Fountain of mercy, for his Pardon, and confiding in ſuch his Interciſſion, and His Majeſties never failing compaſſion to thoſe that Sincerely confeſs their Offences, he ſurrendered Himſelf into the hands of Juſtice, and this day being the 23d. of this Inſtant <hi>June,</hi> attended the Honourable Privy Council (for that and other Important conſiderations) Aſſembled at <hi>Hampton Court,</hi> upon Examination he laid open (according to our beſt Information) the Helliſh Conſpiracy againſt the Perſon of his moſt Sa<g ref="char:EOLhyphen"/>cred Majeſty, and His Royal Highneſs, the Illuſtrious Prince <hi>James</hi> Duke of <hi>York,</hi> in Order to the overthrow of <hi>Monarchy,</hi> and all that can be called dear to Loyal and Peaceful Subjects, in which Divers of the Diſaffected had In<g ref="char:EOLhyphen"/>volved themſelves, but Heaven not permitting ſo great a wickedneſs, prevent<g ref="char:EOLhyphen"/>ed it moſt miraculouſly, as is conjectured, by his Majeſties unexpected De<g ref="char:EOLhyphen"/>parture from <hi>New-Market,</hi> upon the breaking out of the late dreadful Fire in that Town, which Conflagration cauſed his Majeſty and Royal Highneſs to depart, and take their way to <hi>Cambridge:</hi> In this deſign many were Involved, as by ſome Papers Seized appears, and upon diſcovery of which, divers are Fled, nor cannot be yet found, divers Meſſengers have been Impowered to appre<g ref="char:EOLhyphen"/>hend them, and of this pernicious number, Mr. <hi>Goodenough</hi> late under Sheriff for the City of <hi>London,</hi> &amp;c. Is ſhrewdly ſuſpected for one, as alſo a Lawyers Son of note, but till the Wiſdom of the Nation (in Council Aſſembled) make a further Progreſs in this happy and timely diſcovery; I ſhall acqui<g ref="char:EOLhyphen"/>eſce, wiſhing that all ſuch as either in thought or deed attempt the hurt of His mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, Sacred Majeſty, may undergoe the Puniſhment due to the worſt of Traytors.</p>
+            <p>H<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Majeſty being ſatisfied of the Truth of this Conſpiracy againſt his Sacred Perſon, and the Perſon of his Royal Brother, cauſed his Proclamation to be Iſſued forth, commanding theſe Conſpirators, <hi>viz.</hi> Collonel <hi>John Rumſie, Ri<g ref="char:EOLhyphen"/>chard Rumbal, Richard Nelthrop, Edward Wade, Richard Goodenough,</hi> Captain <hi>Walcot, William Thompſon, James Burton,</hi> and <hi>William Hone,</hi> to render them<g ref="char:EOLhyphen"/>ſelves to his Judges, Juſtices, <hi>&amp;c.</hi> ſtrictly forbiding any of his Subjects to Con<g ref="char:EOLhyphen"/>ceal, Harbour, or Relieve them, and that whoſoever ſhall apprehend any of them, and put them, into the hands of Juſtice, ſhall receive for each ſo apprehended, One Hundred Pound as a Reward.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entred According to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>W. Downing</hi> for <hi>T. Benskin</hi> in St. <hi>Brides</hi> Church-Yard.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
